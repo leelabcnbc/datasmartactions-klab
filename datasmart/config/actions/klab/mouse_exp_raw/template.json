@@ -1,0 +1,25 @@
+{
+  "schema_revision": 1,
+  "timestamp": "{{timestamp}}",
+  "animal_id": "2024_1R",
+  "session_id": "160825",
+  "experiment_name": "blablabla",
+  "acquisition_system": "MI156",
+  "acquisition_system_files": [ "IMG_0767.JPG", "IMG_0766.JPG", "IMG_0765.JPG" ],
+  "all_file_site": {
+    "path": "sparrowhawk.cnbc.cmu.edu",
+    "local": false,
+    "prefix": "/datasmart/kuhlmanlab"
+  },
+  "all_file_prefix": "sharedData/forDataSMARTDevelopment/2024_1R_160825",
+  "session_names": [
+    "2024_1R_160825_000_000",
+    "2024_1R_160825_000_001",
+    "blablabla"
+  ],
+  "notebook_path": "2024_1R_160825.txt",
+  "has_real_time_data": false,
+  "additional_parameters": {
+  },
+  "notes": ""
+}
